@@ -29,7 +29,7 @@ class UsingUnitTest(unittest.TestCase):
 
     def setUp(self):
         """
-        Add the navigator puppeter. You can find the turorial here:
+        Add the navigator puppeter. You can find the tutorial here:
         https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/
 
         And the codes for different browsers are here:
